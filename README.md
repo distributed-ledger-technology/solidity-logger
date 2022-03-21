@@ -7,7 +7,7 @@ import "https://raw.githubusercontent.com/distributed-ledger-technology/solidity
 
 contract YourContract is Loggable {
 
-  log("check the console details")
+  log("check the console details");
 
 }
 
