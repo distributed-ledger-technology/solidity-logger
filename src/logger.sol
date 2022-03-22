@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GNU GPL v3
 pragma solidity >=0.8.0 <0.9.0;
 
-contract Loggable {
+library Logger {
     event LogString(string);
 
     function log(string memory s) public {
