@@ -3,7 +3,7 @@
 ## Usage Example
 
 ```sol
-import "https://raw.githubusercontent.com/distributed-ledger-technology/solidity-logger/main/src/loggable.sol";
+import "https://raw.githubusercontent.com/smart-contract-modules-solidity/solidity-logger/main/src/logger.sol";
 
 contract YourContract is Loggable {
 
